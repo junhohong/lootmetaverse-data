@@ -1,0 +1,23 @@
+{
+  "name": "dhof-loot",
+  "version": "1.0.0",
+  "description": "Collects details about the Loot project",
+  "main": "index.js",
+  "scripts": {
+    "collect": "node index.js",
+    "parse": "node parse.js",
+    "images": "node images.js"
+  },
+  "keywords": [
+    "loot",
+    "words",
+    "ethereum"
+  ],
+  "author": "Anish Agnihotri",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.4.5",
+    "keccak": "^3.0.1",
+    "secp256k1": "^3.8.0"
+  }
+}
