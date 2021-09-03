@@ -1,8 +1,6 @@
 # lootmetaverse-data
 
-Fork of https://github.com/Anish-Agnihotri/dhof-loot to support loot metaverse.
-
-<img src="https://pbs.twimg.com/media/E90OnuPX0AAUXG8?format=png&name=medium" width="300">
+Fork of https://github.com/Anish-Agnihotri/dhof-loot to support cyberpunk loot metaverse.
 
 ## Distribution
 
