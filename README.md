@@ -4,9 +4,9 @@ Fork of https://github.com/Anish-Agnihotri/dhof-loot to support cyberpunk loot m
 
 ## Distribution
 
-- tokenIds `1` to `7778` claimable by user.
+- tokenIds `1` to `7778` claimable by loot holders.
 - tokenIds `7778` to `8000` claimable by contract owner.
-- Each token has attributes: `chest`, `foot`, `hand`, `head`, `neck`, `ring`, `waist`, `weapon`.
+- tokenIds `8001` to `10000` claimable by user.
 
 ## Output
 
